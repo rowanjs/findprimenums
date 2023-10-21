@@ -9,6 +9,10 @@ You run the code using the run_client.py file and changing the n to the number t
 ## run_client.py example
 ![image](https://github.com/rowanjs/findprimenums/assets/88300732/b40b8728-7c9c-4990-b78c-699acbe2ca3f)
 
+## soe algorithm
+![image](https://github.com/rowanjs/findprimenums/assets/88300732/790e0178-b33f-46aa-b54a-b0af7626eaaf)
+
+
 
 
 
